@@ -3,5 +3,3 @@ let y = 87;
 console.log(x+y);
 
 element = document.getElementById("id");
-
-aaaaaaaaaaaaa
